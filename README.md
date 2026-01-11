@@ -17,6 +17,6 @@ let str = 'this is JS code'
 ```
 
 
-[this is link]([https://](https://www.google.com/)
+[this is link](https://www.google.com/)
 
 ![this is img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6a6CUj2khoE0l_Rlrl4ksYoL9dfetR3pY_w&s)
