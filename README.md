@@ -4,7 +4,8 @@
 ###### h6
 
 *this text will be ITALIC*
-**bold txt*
+
+**bold txt**
 
 * Item 1
 * Item 2
